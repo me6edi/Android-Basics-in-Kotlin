@@ -1,0 +1,7 @@
+fun main() {
+    val count: Int = 2
+    println(count)
+    
+    val value: Int = 10
+    println(value)
+}
