@@ -14,5 +14,5 @@ fun main() {
 // Output
 
 // 100 photos
-10 photos deleted
-90 photos left
+// 10 photos deleted
+// 90 photos left
